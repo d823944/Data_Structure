@@ -24,4 +24,10 @@ https://leetcode.com/explore/learn/
 > Remove Element   
 > Max Consecutive Ones   
 > Minimum Size Subarray Sum   
-
+- Array-related Techniques   
+> Rotate Array   
+> Pascal's Triangle II   
+> Reverse Words in a String   
+> Reverse Words in a String III   
+> Remove Duplicates from Sorted Array   
+> Move Zeroes
