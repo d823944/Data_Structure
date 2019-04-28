@@ -1,4 +1,4 @@
-# DatacStructure
+# Data Structure with Python
 
 ### LeetCode -> Explore -> Learn
 
