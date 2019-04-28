@@ -3,15 +3,15 @@ LeetCode -> Explore -> Learn
 https://leetcode.com/explore/learn/
 
 #### (1)	Introduction to Data Structure: Array & String (21)     
-> Introduction to Array
-> Introduction to Dynamic Array
->> - Find Pivot Index
->> - Largest Number At Least Twice of Others
->> - Plus One
-> Introduction to 2D Array
->> - Diagonal Traverse
->> - Spiral Matrix
->> - Pascal's Triangle
+- Introduction to Array
+- Introduction to Dynamic Array   
+> Find Pivot Index   
+> Largest Number At Least Twice of Others   
+> Plus One   
+- Introduction to 2D Array
+> Diagonal Traverse   
+> Spiral Matrix  
+> Pascal's Triangle   
 
 (2)	Introduction to Data Structure: Queue & Stack (20)    
 (3)	Introduction to Data Structure: Linked List (16)     
