@@ -21,4 +21,7 @@ https://leetcode.com/explore/learn/
 > Array Partition I   
 > Two Sum II - Input array is sorted   
 - Two-pointer Technique - Scenario II   
-> 
+> Remove Element   
+> Max Consecutive Ones   
+> Minimum Size Subarray Sum   
+
