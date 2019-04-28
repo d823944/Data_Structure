@@ -2,7 +2,7 @@ LeetCode -> Explore -> Learn
 
 https://leetcode.com/explore/learn/
 
-#### (1)	Introduction to Data Structure: Array & String (21)     
+#### (1)	Introduction to Data Structure: Array & String (29 items)     
 - Introduction to Array
 - Introduction to Dynamic Array   
 > Find Pivot Index   
