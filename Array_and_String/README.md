@@ -4,7 +4,7 @@ https://leetcode.com/explore/learn/
 
 ### (1)	Introduction to Data Structure: Array & String (5 | 29)     
 - Overview   
-- ####(1) Introduction to Array
+- #### (1) Introduction to Array
 - Introduction to Dynamic Array   
 > Find Pivot Index   
 > Largest Number At Least Twice of Others   
