@@ -16,12 +16,9 @@ https://leetcode.com/explore/learn/
 > Add Binary    
 > Implement strStr()   
 > Longest Common Prefix   
-
-(2)	Introduction to Data Structure: Queue & Stack (20)    
-(3)	Introduction to Data Structure: Linked List (16)     
-(4)	Introduction to Data Structure: Binary Tree (14)     
-(5)	Introduction to Data Structure: Binary Search Tree (11)    
-(6)	Introduction to Algorithms: Recursion I (12)   
-(7)	Introduction to Data Structure: N-ary Tree (6)   
-(8)	Introduction to Data Structure: Trie (9)    
-(9)	Introduction to Data Structure: Hash Table (24)
+- Two-pointer Technique - Scenario I   
+> Reverse String   
+> Array Partition I   
+> Two Sum II - Input array is sorted   
+- Two-pointer Technique - Scenario II   
+> 
