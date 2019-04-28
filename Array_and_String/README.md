@@ -2,7 +2,7 @@ LeetCode -> Explore -> Learn
 
 https://leetcode.com/explore/learn/
 
-#### (1)	Introduction to Data Structure: Array & String (29 items)     
+#### (1)	Introduction to Data Structure: Array & String (5 | 29)     
 - Overview   
 - Introduction to Array
 - Introduction to Dynamic Array   
