@@ -12,6 +12,10 @@ https://leetcode.com/explore/learn/
 > Diagonal Traverse   
 > Spiral Matrix  
 > Pascal's Triangle   
+- Introduction to String  
+> Add Binary    
+> Implement strStr()   
+> Longest Common Prefix   
 
 (2)	Introduction to Data Structure: Queue & Stack (20)    
 (3)	Introduction to Data Structure: Linked List (16)     
