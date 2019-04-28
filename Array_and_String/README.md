@@ -1,23 +1,23 @@
-LeetCode -> Explore -> Learn
+### LeetCode -> Explore -> Learn
 
 https://leetcode.com/explore/learn/
 
-#### (1)	Introduction to Data Structure: Array & String (5 | 29)     
+### (1)	Introduction to Data Structure: Array & String (5 | 29)     
 - Overview   
-- (1) Introduction to Array
+- ####(1) Introduction to Array
 - Introduction to Dynamic Array   
 > Find Pivot Index   
 > Largest Number At Least Twice of Others   
 > Plus One   
-- (2) Introduction to 2D Array
+- #### (2) Introduction to 2D Array
 > Diagonal Traverse   
 > Spiral Matrix  
 > Pascal's Triangle   
-- (3) Introduction to String  
+- #### (3) Introduction to String  
 > Add Binary    
 > Implement strStr()   
 > Longest Common Prefix  
-- (4) Two-pointer Technique   
+- #### (4) Two-pointer Technique   
 - Two-pointer Technique - Scenario I   
 > Reverse String   
 > Array Partition I   
@@ -26,7 +26,7 @@ https://leetcode.com/explore/learn/
 > Remove Element   
 > Max Consecutive Ones   
 > Minimum Size Subarray Sum  
-- (5) Conclusion
+- #### (5) Conclusion
 - Array-related Techniques   
 > Rotate Array   
 > Pascal's Triangle II   
